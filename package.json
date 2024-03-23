@@ -1,0 +1,12 @@
+{
+  "name": "com.pathlib",
+  "displayName": "PathLib",
+  "version": "0.98",
+  "unity": "2023.3",
+  "description": "File System Path handling",
+  "keywords": ["File System", "Path"],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/nemec/pathlib",
+  "changelogUrl": "https://github.com/nemec/pathlib/releases",
+  "licensesUrl": "https://github.com/nemec/pathlib/blob/master/LICENSE.txt"
+}
