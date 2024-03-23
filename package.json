@@ -1,7 +1,7 @@
 {
   "name": "com.pathlib",
   "displayName": "PathLib",
-  "version": "0.9.8.0",
+  "version": "0.9.8",
   "unity": "2023.3",
   "description": "File System Path handling",
   "keywords": ["File System", "Path"],
